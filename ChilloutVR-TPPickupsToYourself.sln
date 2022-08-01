@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChilloutVR-TPPickupsToYourself", "ChilloutVR-TPPickupsToYourself\ChilloutVR-TPPickupsToYourself.csproj", "{9A825BF4-2FBA-44CC-81C8-930834C8BCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A825BF4-2FBA-44CC-81C8-930834C8BCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A825BF4-2FBA-44CC-81C8-930834C8BCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A825BF4-2FBA-44CC-81C8-930834C8BCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A825BF4-2FBA-44CC-81C8-930834C8BCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C58E1E1-FD4D-4B7F-B35B-011AF5ABEA71}
+	EndGlobalSection
+EndGlobal
